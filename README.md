@@ -14,6 +14,8 @@
     
 </div>
   <a href="https://www.linkedin.com/in/rikellyh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <h3> Curiosa desde sempre, eu decidi estudar programação neste ano de 2022. <em> Almejando também uma oportunidade na área </em> </h3>
  
   ![Snake animation](https://github.com/RikellyH/RikellyH/blob/output/github-contribution-grid-snake.svg)
  
