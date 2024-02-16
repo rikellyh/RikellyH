@@ -6,7 +6,7 @@
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top">
 
 ### <div align="center"> Frontend </div>
 
@@ -14,15 +14,7 @@
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,graphql,reactnative&theme=light&perline=3" />
 </p>
 
-</td><td valign="top" width="33%">
-
-### <div align="center"> Backend </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,rabbitmq,postgres&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
 ### <div align="center"> Tools </div>
 
