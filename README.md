@@ -1,11 +1,6 @@
 <div style="margin-bottom:100px"></div>
 
 <h1 align="center"><b>Hi , I'm Kelly! ✨👩‍💻</h1>
-<!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&pause=1000&color=EC007F&random=false&width=435&lines=I'm+Front-end+Developer%2C;specializing+in+ReactJS" alt="Typing SVG" /></a>
-</p>
-
 
 <br>
 
