@@ -1,8 +1,9 @@
 <div style="margin-bottom:100px"></div>
 
-<h1 align="center"><b>Hi , I'm Kelly! ✨👩‍💻</h1>
-
-<br>
+<div align="center">
+    <img src="https://github.com/rikellyh/RikellyH/assets/102254879/a263aa5f-8c37-4659-9ed6-e6c12db2a1ac" alt="HeaderProfile">
+</div>
+<br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
@@ -11,7 +12,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,graphql,reactnative&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,css,tailwind,mui&theme=light&perline=3" />
 </p>
 
 </td><td valign="top">
@@ -19,7 +20,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,github,git,firebase,vscode&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=vercel,github,git,vscode,vite,figma&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
@@ -35,10 +36,10 @@
 # 📫 Connect With Me
 
 <div align="center">
-<a href="mailto:rikellyh898@gmail.com" target="_blank">
+<a href="mailto:rikellyh898@gmail.com" target="_blank" style="text-decoration: none !important;">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" >
 </a>
-<a href="https://www.linkedin.com/in/rikellyh/" target="_blank">
+<a href="https://www.linkedin.com/in/rikellyh/" target="_blank" style="text-decoration: none !important;">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br/><br/>
